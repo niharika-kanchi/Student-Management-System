@@ -8,6 +8,7 @@ A Java-based Student Management System connected to a database for managing stud
 - SQL
 - Database Management
 
+
 ## Features
 - Add student records
 - View student information
