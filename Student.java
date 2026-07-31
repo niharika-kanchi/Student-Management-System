@@ -20,8 +20,8 @@ public class Student {
 
         Student student = new Student(
             101,
-            "Niharika",
-            "Master of Software Engineering"
+            "Isha Hi",
+            "Master of Teaching"
         );
 
         student.displayStudentDetails();
