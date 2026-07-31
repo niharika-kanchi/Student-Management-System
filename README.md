@@ -12,5 +12,6 @@ A Java-based Student Management System connected to a database for managing stud
 ## Features
 - Add student records
 - View student information
+- View student attendance
 - Update student details
 - Delete student records
